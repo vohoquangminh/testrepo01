@@ -24,4 +24,6 @@ RUN pm run build
 
 COPY package. json dist/
 
+USER leap
+
 CMD ["node", "dist/src/main.is"]
