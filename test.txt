@@ -1,0 +1,7 @@
+CLEVER_TAP_CREDENTIALS={"fssgbwr":{"accountId":"","passcode":""}}
+DATABASE_USERNAME=nasdasd_sasdasd_db_user
+DATABASE_PASSWORD=asd
+CLEVER_TAP_CREDENTIALS={"fssgbwr":{"accountId":"33T-T54-KCG2","passcode":"ASD-ASA-JKLO"},"test-fssgbwr-uat":{"accountId":"TEST-9T7-54G-GG7Z","passcode":"ASD-CVD-KJGH"}}
+DATABASE_PASSWORD=$variable
+DATABASE_PASSWORD=
+DB_PASS=
